@@ -1,1 +1,50 @@
-**Hi, am Mwask**
+## Hey there!
+I'm **Mwask** — a small designer and student who codes for the vibe.  
+tiny 🤏 Developer | 
+
+---
+
+## 🌟 GitHub Stats
+![pro-mwas1234's GitHub stats](https://readme-two-sand.vercel.app/api?username=Pr0-mwask1234&show_icons=false&hide_title=true&count_private=true&theme=dark&hide_border=true)
+
+  
+- [![Stargazers](https://img.shields.io/github/stars/walterwhite-69?style=for-the-badge&logo=github)](https://github.com/pro-mwas1234?tab=repositories)
+- [![Followers](https://img.shields.io/github/followers/pro-mwas1234?style=for-the-badge&logo=github&logoColor=white&color=007acc)](https://github.com/pro-mwas1234?tab=followers)
+- [![Following](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&color=9e9e9e&label=Following&query=following&url=https://api.github.com/users/pro-mwas1234)](https://github.com/pro-mwas1234?tab=following)
+- [![GitHub Since](https://img.shields.io/badge/GitHub%20Since-2022-%23e1e4e8?style=for-the-badge&logo=github)](https://github.com/pro-mwas1234)
+- [![Public Repositories](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&color=f6b93b&label=Public%20Repositories&query=public_repos&url=https://api.github.com/users/pro-mwas1234)](https://github.com/pro-mwas1234?tab=repositories)
+- [![Profile](https://img.shields.io/badge/Profile-walterwhite--69-%2300aaff?style=for-the-badge&logo=github)](https://github.com/pro-mwas1234)
+- ![Profile Views](https://komarev.com/ghpvc/?username=walterwhite-69&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)
+
+---
+
+## 🎨 About Me
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Poppins&size=45&duration=2000&pause=1000&color=4CAF50&center=true&vCenter=true&width=1200&height=180&lines=Designer+first%2C+coder+for+fun%21;Currently+a+student%2C+exploring+tech+and+creativity.%3BNot+chasing+big+code+lately%E2%80%94just+following+the+vibe.)
+
+
+
+
+---
+
+## 🛠️ Skills & Stack
+- **Design:** UI/UX, web aesthetics
+- **Languages & Tools:**  
+  - Python  
+  - HTML, CSS, JS  
+  - React  
+- **Mostly:** Vibing with frontend and creative coding
+
+---
+
+
+
+
+---
+
+## 💬 Fun Facts
+- Left “real” coding for a while—now just here for the good vibes!
+- Always open for creative collabs and new design friends.
+
+---
+
+> “Code for the vibe, not the grind.”  

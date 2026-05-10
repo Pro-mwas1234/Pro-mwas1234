@@ -5,7 +5,7 @@ tiny 🤏 Developer |
 ---
 
 ## 🌟 GitHub Stats
-![pro-mwas1234's GitHub stats](https://readme-two-sand.vercel.app/api?username=pro-mwask1234&show_icons=false&hide_title=true&count_private=true&theme=dark&hide_border=true)
+![pro-mwas1234's GitHub stats](https://readme-two-sand.vercel.app/api?username=pro-mwas1234&show_icons=false&hide_title=true&count_private=true&theme=dark&hide_border=true)
 
   
 - [![Stargazers](https://img.shields.io/github/stars/pro-mwas1234?style=for-the-badge&logo=github)](https://github.com/pro-mwas1234?tab=repositories)

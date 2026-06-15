@@ -10,7 +10,7 @@ tiny 🤏 Developer |
   
 - [![Stargazers](https://img.shields.io/github/stars/pro-mwas1234?style=for-the-badge&logo=github)](https://github.com/pro-mwas1234?tab=repositories)
 - [![Followers](https://img.shields.io/github/followers/pro-mwas1234?style=for-the-badge&logo=github&logoColor=white&color=007acc)](https://github.com/pro-mwas1234?tab=followers)
-- [![Following](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&color=9e9e9e&label=Following&query=following&url=https://api.github.com/users/pro-mwas1234)](https://github.com/pro-mwas1234?tab=following)
+- [![Following](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&color=9e9e9e&label=following&query=following&url=https://api.github.com/users/pro-mwas1234)](https://github.com/pro-mwas1234?tab=following)
 - [![GitHub Since](https://img.shields.io/badge/GitHub%20Since-2022-%23e1e4e8?style=for-the-badge&logo=github)](https://github.com/pro-mwas1234)
 - [![Public Repositories](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&color=f6b93b&label=Public%20Repositories&query=public_repos&url=https://api.github.com/users/pro-mwas1234)](https://github.com/pro-mwas1234?tab=repositories)
 - [![Profile](https://img.shields.io/badge/Profile-pro-mwas1234%2300aaff?style=for-the-badge&logo=github)](https://github.com/pro-mwas1234)

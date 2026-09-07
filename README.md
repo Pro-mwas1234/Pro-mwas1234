@@ -4,6 +4,11 @@ tiny 🤏 Developer |
 
 ---
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Headphone.png" width="25" height="25" alt="Spotify" /> Spotify Data Card
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=duoe81x631irxy7244err0cvu">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=duoe81x631irxy7244err0cvu" alt="Data Card for Spotify">
+</a>
+
 ## 🌟 GitHub Stats
 ![pro-mwas1234's GitHub stats](https://readme-two-sand.vercel.app/api?username=pro-mwas1234&show_icons=false&hide_title=true&count_private=true&theme=dark&hide_border=true)
 

@@ -37,6 +37,8 @@ tiny 🤏 Developer |
   - Python  
   - HTML, CSS, JS  
   - React  
+  - Kotlin
+
 - **Mostly:** Vibing with frontend and creative coding
 
 ---
